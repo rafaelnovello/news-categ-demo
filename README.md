@@ -4,6 +4,8 @@ It's a logistic regression demo showed first time at my personal blog linked in 
 
 Basically, it's a python program for command line that download and process some news content from brasilian sites and use scikit-learn Logistic Regression to classify them in some categories.
 
+Feedbacks are always welcome! If you have any problem, doubt or suggestion open an issue and let's talk!
+
 # Install
 
 - Clone the repo
